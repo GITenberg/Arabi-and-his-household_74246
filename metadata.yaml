@@ -1,0 +1,39 @@
+_repo: Arabi-and-his-household_74246
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gregory, Lady
+    aliases:
+    - Persse, Isabella Augusta
+    - Gregory, Isabella Augusta Persse, Lady
+    - Gregory, Lady Augusta
+    birthdate: 1852
+    deathdate: 1932
+    gutenberg_agent_id: '4092'
+    url: http://www.gutenberg.org/2009/agents/4092
+    wikipedia: https://en.wikipedia.org/wiki/Lady_Gregory
+description: ''
+gutenberg_issued: '2024-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74246'
+language: en
+pgterms:marc904: https://www.google.ie/books/edition/Arabi_and_His_Household/MoYIAAAAQAAJ
+pgterms:marc905: 20231219124116gregory
+pgterms:marc906: '1882'
+pgterms:marc907: gb
+production_note: Jamie Brydone-Jack, Chris Hapka and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from scanned images of public
+  domain material from the Google Books project.)
+publication_note: '  $aLondon :$bKegan Paul, Trench & Co., $c1882.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Egypt -- History -- British occupation, 1882-1936'
+- !lcsh 'Egypt -- History -- Tawfīq, 1879-1892'
+- !lcsh 'Urabi, Ahmad, 1840 or 1841-1911'
+- !lcc 'DT'
+- GITenberg
+title: Arabi and his household
+url: http://www.gutenberg.org/ebooks/74246
