@@ -1,5 +1,8 @@
 _repo: Arabi-and-his-household_74246
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74246-h/images/cover.png
 creator:
   author:
     agent_name: Gregory, Lady
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4092
     wikipedia: https://en.wikipedia.org/wiki/Lady_Gregory
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74246#Arabi-and-his-household
 gutenberg_issued: '2024-08-13'
 gutenberg_type: Text
 identifiers:
